@@ -6,7 +6,16 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, Java, PHP, C#.</strong>
+  🦄 Linguagens: <strong>JavaScript, Java, PHP, C, C++, Typescript.</strong>
+</p>
+
+
+<p align="left">
+  🔧 Frameworks: <strong>SpringBoot, Laravel, NextJS, NodeJS, Flask, Django, Quarkus, Angular</strong>
+</p>
+
+<p align="left">
+  🔧 Trabalho com: <strong>Oracle EBS, Oracle APEX, PL/SQL, Oracle ETM, PowerBI, QlikView, QlikSense, Typescript, Python</strong>
 </p>
 
 <p align="left">
