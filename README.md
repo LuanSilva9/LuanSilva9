@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, meu nome é Luan e esse é meu Github! Sou um desenvolvedor <strong>Back-end</strong> e <strong>Engenheiro de Dados</strong> pela [Copasul](https://www.copasul.coop.br).<br>
+  Olá, meu nome é Luan e esse é meu Github! Sou um desenvolvedor <strong>Back-end</strong> e <strong>Engenheiro de Dados</strong> pela Copasul.<br>
   E atualmente estudo Analise de Sistemas...
 </p>
 
