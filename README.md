@@ -11,7 +11,7 @@
 
 
 <p align="left">
-  🔧 Frameworks: <strong>SpringBoot, Laravel, NestJS, NodeJS, Flask, Django, Quarkus, Angular</strong>
+  🔧 Frameworks: <strong>SpringBoot, Laravel, Gin, Fiber, NestJS, NodeJS, Flask, Quarkus</strong>
 </p>
 
 <p align="left">
