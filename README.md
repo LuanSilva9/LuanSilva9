@@ -156,16 +156,6 @@ Helping transform **grains into insights** through scalable data pipelines and m
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LuanSilva9&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
