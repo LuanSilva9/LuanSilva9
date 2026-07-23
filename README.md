@@ -13,7 +13,7 @@ Building enterprise software, cloud solutions and modern data platforms.
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-[![Go](https://img.shields.io/badge=Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -135,13 +135,14 @@ Helping transform **grains into insights** through scalable data pipelines and m
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuanSilva9&theme=github_dark"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuanSilva9&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSilva9&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuanSilva9&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuanSilva9&theme=github_dark"/>
+</p>
 
 ---
 
